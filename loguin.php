@@ -10,8 +10,3 @@ fwrite($cuentas, "\n");
 fclose($cuentas);
 exit;
 ?>
-
-
-
-
-
